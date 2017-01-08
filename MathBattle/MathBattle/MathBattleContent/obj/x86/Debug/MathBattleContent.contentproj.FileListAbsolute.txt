@@ -1,0 +1,1 @@
+c:\users\alex\documents\visual studio 2015\Projects\MathBattle\MathBattle\MathBattleContent\obj\x86\Debug\MathBattleContent.contentprojResolveAssemblyReference.cache
