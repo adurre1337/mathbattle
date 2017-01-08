@@ -118,7 +118,7 @@ namespace MathBattle
             if (checkKey(Keys.Up))
             {
                 selectedIndex--;
-                if ((selectedIndex < menuItems.Length))
+                if ((selectedIndex < 0))
                 {
                     selectedIndex = menuItems.Length - 1;
                 }
